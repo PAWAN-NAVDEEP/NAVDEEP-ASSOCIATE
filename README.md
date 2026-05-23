@@ -125,7 +125,7 @@ footer {
     <h2>About Our Team</h2>
     <div class="card">
       <p>
-        NAVDEEP ASSOCIATE is a professional insurance recruitment team working with Tata AIA Life Insurance.
+        NAVDEEP ASSOCIATE is a professional insurance recruitment team working with .
         We help people build their careers with flexible work opportunities and growth.
       </p>
     </div>
@@ -153,7 +153,7 @@ footer {
     <div class="card">
       <p><strong>Team Leader:</strong> Pawan Kumar</p>
       <p><strong>Contact Number:</strong> 7015553849</p>
-      <p><strong>Company:</strong> Tata AIA Life Insurance</p>
+      <p><strong>Company:</strong>NAVDEEP ASSOCIATE 
     </div>
   </section>  <footer>
     <p>© 2026 NAVDEEP ASSOCIATE | All Rights Reserved</p>
