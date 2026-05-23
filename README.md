@@ -1,2 +1,163 @@
 # NAVDEEP-ASSOCIATE
 Official website for Navdeep Associate.Join Navdeep Associate Team and become an Agent with us.Navdeep Associate - Professional Team &amp; Digital Services Website.Official website of Navdeep Associate.
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NAVDEEP ASSOCIATE</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }body {
+  background: #ffffff;
+  color: #222;
+}
+
+header {
+  background: linear-gradient(135deg, #0077ff, #00bfff);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+header h1 {
+  font-size: 42px;
+  margin-bottom: 15px;
+}
+
+header p {
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+
+.btn {
+  background: white;
+  color: #0077ff;
+  padding: 12px 25px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+}
+
+section {
+  padding: 50px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.card {
+  background: #f5f5f5;
+  padding: 25px;
+  border-radius: 15px;
+  margin-top: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #0077ff;
+  margin-bottom: 15px;
+}
+
+form {
+  display: grid;
+  gap: 15px;
+}
+
+input, select {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+button {
+  background: #0077ff;
+  color: white;
+  border: none;
+  padding: 14px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005fd1;
+}
+
+footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #25D366;
+  color: white;
+  padding: 15px 18px;
+  border-radius: 50%;
+  font-size: 22px;
+  text-decoration: none;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+@media(max-width: 768px) {
+  header h1 {
+    font-size: 30px;
+  }
+}
+
+  </style>
+</head>
+<body>  <header>
+    <h1>JOIN NAVDEEP ASSOCIATE</h1>
+    <p>Career Opportunity with Tata AIA Life Insurance</p>
+    <a href="#join" class="btn">Join Now</a>
+  </header>  <section>
+    <h2>About Our Team</h2>
+    <div class="card">
+      <p>
+        NAVDEEP ASSOCIATE is a professional insurance recruitment team working with Tata AIA Life Insurance.
+        We help people build their careers with flexible work opportunities and growth.
+      </p>
+    </div>
+  </section>  <section id="join">
+    <h2>Join Our Team</h2>
+    <div class="card">
+      <form>
+        <input type="text" placeholder="Full Name" required>
+        <input type="text" placeholder="Mobile Number OR WhatsApp Number" required>
+        <input type="email" placeholder="Email ID" required>
+        <input type="text" placeholder="City Name" required>
+        <input type="text" placeholder="Qualification" required><select required>
+      <option value="">Upload Any One Certificate</option>
+      <option>10th Certificate</option>
+      <option>12th Certificate</option>
+      <option>Graduation Certificate</option>
+    </select>
+
+    <button type="submit">Submit Details</button>
+  </form>
+</div>
+
+  </section>  <section>
+    <h2>Contact Details</h2>
+    <div class="card">
+      <p><strong>Team Leader:</strong> Pawan Kumar</p>
+      <p><strong>Contact Number:</strong> 7015553849</p>
+      <p><strong>Company:</strong> Tata AIA Life Insurance</p>
+    </div>
+  </section>  <footer>
+    <p>© 2026 NAVDEEP ASSOCIATE | All Rights Reserved</p>
+  </footer><a class="whatsapp" href="https://wa.me/917015553849">W</a>
+
+</body>
+</html>
